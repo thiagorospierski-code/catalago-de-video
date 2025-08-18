@@ -4,12 +4,16 @@ background: black;
 color: white;
 background: black;
 margin: 0px; }
- header {
+
+
+
+header {
 border-bottom: solid 2px rgb(255, 255, 255);
 padding: 20px;
 font-size: 32px;
 color: rgb(0, 0, 0);
 }
+ 
 
 .chamada {
         background: rgb(255, 0, 0);
@@ -22,9 +26,6 @@ color: rgb(0, 0, 0);
 .chamada-texto {
  margin-right: 5%; 
 }
-             
-             
-                         
  h1 {
   font-size: 40px;
 }
